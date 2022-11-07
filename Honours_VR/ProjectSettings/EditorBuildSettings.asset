@@ -8,6 +8,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Assembly1.unity
     guid: d653fece2d86d424fa8087a0dfd6c655
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ProcessMenu.unity
+    guid: 2f830835ebdcd964790981c427b55534
+  - enabled: 1
+    path: Assets/Scenes/Casting.unity
+    guid: e31c6f55aff89e344983d7ab04868ace
+  - enabled: 1
+    path: Assets/Scenes/AssemblyLvlMenu.unity
+    guid: 12ea44a7b48ef34479f797d8950c013a
+  - enabled: 1
+    path: Assets/Scenes/Story.unity
+    guid: c7ba65eec1b4405429f26eff4d8051fb
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 354d2b789a0464b46b4217fca1babf5f, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9e9272527956ddb43be4e693b429e019, type: 2}
